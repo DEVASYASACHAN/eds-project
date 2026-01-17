@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://drive.google.com/drive/u/0/folders/16BasQ0ZAdiUnJiHMP57OWvrfN1r5LCOl
+    type: google
